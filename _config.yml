@@ -16,9 +16,12 @@
 title: Josh Cabal
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  As an experienced IT Project Coordinator, I specialize in driving operations and optimizing 
+  workflows using data-driven insights and PMI methodologies. My skills in Microsoft Suite and 
+  CRM platforms, combined with a mathematics degree from CSUN and ongoing studies in Business Analytics, 
+  equip me to deliver effective project management, insightful data visualizations, and clear communication of 
+  complex technical information. My commitment to efficiency and continuous improvement is evident in my successful 
+  management of diverse IT projects and stakeholder relationships.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -60,7 +63,7 @@ plugins:
 author:
   name   : "Josh Cabal"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Full-time IT Solutions Project Manager and full-time Master's student in Data Analytics. Always love to continuously learn and challenge myself!"
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
@@ -77,9 +80,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/josh-cabal/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
